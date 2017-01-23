@@ -93,8 +93,7 @@
         <gap:plugin name="org.apache.cordova.splashscreen" source="npm" />
         <gap:plugin name="org.apache.cordova.vibration" source="npm" />
         
-        <!-- ios -->
-        <gap:plugin name="com.phonegap.plugin.statusbar" version="npm" />       
+               
         
     <!-- Define app icon for each platform. -->
         Define access to external domains.
